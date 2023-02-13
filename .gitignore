@@ -1,0 +1,8 @@
+**/*.o
+mysh
+**/*.a
+.vscode/
+a.out
+infinity.c
+my_ls
+my_lscp
